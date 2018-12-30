@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:10 +0530] "GET / HTTP/1.1" 200 1221 http-bio-8080-exec-2 341
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:10 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:33 +0530] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-4 7
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:35 +0530] "GET /show-todo.do HTTP/1.1" 200 2107 http-bio-8080-exec-6 1404
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:39 +0530] "GET /add-todo.do HTTP/1.1" 200 1156 http-bio-8080-exec-7 138
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:46 +0530] "POST /add-todo.do HTTP/1.1" 302 - http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:11:22:46 +0530] "GET /show-todo.do HTTP/1.1" 200 2268 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:54 +0530] "GET /delete-todo.do?name=Todo%202&category=Study HTTP/1.1" 200 1221 http-bio-8080-exec-1 793
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:55 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 16384 http-bio-8080-exec-1 840
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:56 +0530] "POST /login.do HTTP/1.1" 302 - http-bio-8080-exec-3 69
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:56 +0530] "GET /show-todo.do HTTP/1.1" 200 2268 http-bio-8080-exec-3 48
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:57 +0530] "GET /delete-todo.do?name=Todo%203&category=Study HTTP/1.1" 302 - http-bio-8080-exec-3 36
+0:0:0:0:0:0:0:1 - - [01/Oct/2018:14:55:57 +0530] "GET /show-todo.do HTTP/1.1" 200 2097 http-bio-8080-exec-3 3

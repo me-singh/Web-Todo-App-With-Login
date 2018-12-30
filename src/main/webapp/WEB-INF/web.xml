@@ -1,3 +1,6 @@
+<!-- 
+WEB APP USING JSP AND SERVLET - Todo Manager
+ -->
 <!-- webapp/WEB-INF/web.xml -->
 <web-app xmlns="http://java.sun.com/xml/ns/javaee" 
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
